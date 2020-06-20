@@ -5,6 +5,7 @@
 | Bitcoin secp256k1             | https://github.com/bitcoin-core/secp256k1                         |
 | Статья про ЭЦП                | https://habr.com/ru/post/335906/                                  |
 | Еще одна статья про ЭЦП и secp256k1 | https://habr.com/ru/post/319868/                            |
+| Расширенный алгориитм Эвклида для нахождения обратного числа по модулю| http://algolist.ru/maths/teornum/nod.php |
 | Обсуждение про криптографию на BigInt   | https://twitter.com/paulmillr/status/1142431524521947136                      |
 | BigInt-proposal              | https://github.com/tc39/proposal-bigint#cryptography                   |
 | Б. Шнаер "Прикладная Криптография"                | https://www.ozon.ru/context/detail/id/1135241/  |
