@@ -2,7 +2,7 @@
 
 | Тема                          | Ссылки                                                            |
 | ----------------------------- | ----------------------------------------------------------------- |
-| Bitcoin secp256k1             | https://github.com/bitcoin-core/secp256k1                         |
+| Practical Cryptography for Developers             | https://cryptobook.nakov.com/                      |
 | SEC 1: Elliptic Curve Cryptography |               http://www.secg.org/sec1-v2.pdf                |
 | SEC 2: Elliptic Curve Cryptography |               http://www.secg.org/sec2-v2.pdf                |
 | Статья про ЭЦП                | https://habr.com/ru/post/335906/                                  |
