@@ -2,6 +2,7 @@
 
 | Тема                          | Ссылки                                                            |
 | ----------------------------- | ----------------------------------------------------------------- |
+| Paul Miller Article About Elliptic Curve Cryptography            | https://paulmillr.com/posts/noble-secp256k1-fast-ecc                     |
 | Practical Cryptography for Developers             | https://cryptobook.nakov.com/                      |
 | SEC 1: Elliptic Curve Cryptography |               http://www.secg.org/sec1-v2.pdf                |
 | SEC 2: Elliptic Curve Cryptography |               http://www.secg.org/sec2-v2.pdf                |
